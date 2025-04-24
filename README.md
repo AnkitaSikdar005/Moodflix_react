@@ -8,6 +8,7 @@
 
 - 🔥 **Browse All Movies**: Explore a wide range of movies available on the platform.
 - 💅 **Search Movies**: Easily search for specific movies using a search function.
+- 🎬 **Movie Details Modal** – View movie info like rating, genres, cast, and overview in a modal popup.
 - 🎯 **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
 - ⚡ **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 - ✨ **Responsiveness**: Fully responsive design that works seamlessly across devices.
@@ -16,9 +17,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js
-- **Backend/Database:** Appwrite Cloud
-- **Styling:** TailwindCSS
+| Tech        | Purpose                  |
+|-------------|--------------------------|
+| React.js    | Frontend UI              |
+| Appwrite    | Backend, DB, Auth        |
+| TailwindCSS | Styling and Responsiveness |
 
 
 ---
@@ -32,6 +35,8 @@
 
 
 ---
+![image](https://github.com/user-attachments/assets/4f045643-19d9-4b84-893c-828aed99540c)
+
 
 ## 📦 Installation & Setup
 
