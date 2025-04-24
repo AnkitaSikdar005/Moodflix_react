@@ -88,3 +88,6 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+## ⭐️ Show Your Support
+If you like this project, consider giving it a ⭐️ on GitHub or sharing it with others!
